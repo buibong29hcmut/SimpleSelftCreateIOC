@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31912.275
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleSelftCreateIOC", "SimpleSelftCreateIOC\SimpleSelftCreateIOC.csproj", "{8F44855D-9A72-437A-87EC-E66D9E560955}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8F44855D-9A72-437A-87EC-E66D9E560955}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8F44855D-9A72-437A-87EC-E66D9E560955}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8F44855D-9A72-437A-87EC-E66D9E560955}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8F44855D-9A72-437A-87EC-E66D9E560955}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AE62424C-93B6-475D-8502-D7EE677F061F}
+	EndGlobalSection
+EndGlobal
